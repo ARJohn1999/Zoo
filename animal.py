@@ -1,2 +1,2 @@
 print("Zebra is ready")
-print("Lion is sleeping")
+print("Lion is coming")
