@@ -1,0 +1,2 @@
+print("Zebra is ready.!")
+
